@@ -1,1 +1,1 @@
-# farmers-market
+# farmers-market is a shopping app for local farmers in remote parts of Uganda, where they can shop for agricultral supplies and have them delivered to their local farms. The app is currently under development.
